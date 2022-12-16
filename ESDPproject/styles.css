@@ -1,0 +1,81 @@
+.main-div {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(72,72,205,1) 0%, rgba(0,212,255,1) 50%);
+}
+
+.container {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: white !important;
+    height: 1280px;
+}
+
+.form-group {
+    margin: 20px 20px;
+}
+
+#itemInput { 
+    border-radius: 5px;
+    padding: 5px 0;
+    margin: 50px 0;
+}
+
+#student-mësues {
+    border-radius: 5px;
+    padding: 5px 0;
+    margin: 50px 0;
+   
+}
+
+#addButton {
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 50px 0;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#todoList {
+    border-color: black;
+}
+
+.search-bar {
+    margin-left: 20px;
+    border-radius: 5px;
+    padding: 5px 0;
+}
+
+.btn-danger {
+    color: white;
+    background-color: red;
+    border-radius: 200px;
+    font-size: 14px;
+    padding: 5px 10px;
+    font-weight: bolder;
+    border: none;
+    float: right !important;
+    margin-right: 20px;
+    margin-top: -20px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 10px !important;
+}
+
+li {
+    width: 570px;
+    border: 1px solid black ;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 2px 5px gainsboro; 
+    padding: 10px 0 10px 10px;
+}
+
+img {
+    width: 30px;
+    height: 30px; 
+    border: 1px solid black ;
+    border-radius: 100%;
+}
